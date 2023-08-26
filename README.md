@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello, I'm Aziz Chanou 👋
+
+🌍 Full-Stack Developer | 🏗️ Software Engineer | 🚀 DevOps Enthusiast
+
+I'm a software developer dedicated to crafting exceptional digital experiences. My expertise spans a variety of domains, from building responsive user interfaces to server management and continuous deployment.
+
+## My Skills
+
+🔧 Languages and Tools: JavaScript, Node.js, React, Vue, Astro, Nest, PHP, Laravel  
+☁️ DevOps: Git, Docker, CI/CD  
+🛠️ Databases: MongoDB, MySQL, PostgreSQL  
+🔑 Security: Authentication, Authorization  
+
+## Experience
+
+🏢 Graduated in Software Architecture  
+👨‍💻 Several years of experience in web development  
 
 <!--
-**AzizChanou/AzizChanou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📁 [Portfolio](https://azizch.vercel.app) - Portfolio  
 -->
+## Contact Me
+
+📧 Email: azizchanou@gmail.com  
