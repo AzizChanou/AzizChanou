@@ -2,7 +2,7 @@
 
 🌍 Full-Stack Developer | 🏗️ Software Engineer | 🚀 DevOps Enthusiast
 
-I'm a software developer dedicated to crafting exceptional digital experiences. My expertise spans a variety of domains, from building responsive user interfaces to server management and continuous deployment.
+I'm a software engineer dedicated to crafting exceptional digital experiences. My expertise spans a variety of domains, from building responsive user interfaces to server management and continuous deployment.
 
 ## My Skills
 
