@@ -6,7 +6,7 @@ I'm a software engineer dedicated to crafting exceptional digital experiences. M
 
 ## My Skills
 
-🔧 Languages and Tools: JavaScript, Node.js, React, Vue, Astro, Nest, PHP, Laravel  
+🔧 Languages and Tools: TypeScript, Node.js, Next, Nuxt, Astro, Nest, PHP, Laravel  
 ☁️ DevOps: Git, Docker, CI/CD  
 🛠️ Databases: MongoDB, MySQL, PostgreSQL  
 🔑 Security: Authentication, Authorization  
